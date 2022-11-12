@@ -9,12 +9,12 @@ at the same time.
 Once in the webpage, the user should navigate to the bottom left and find “Filter Search”. There are 5 input boxes to filter data by including “City”, 
 “State”, “Country” and “Shape”.
 
-[!IMAGE 1](Resources/IMAGE1.png) 
+![IMAGE 1](Resources/IMAGE1.png) 
 
 Without entering any information, the user will see all data populated in the table. To filter, the user should input criteria in at least one of the
 fields. The user can provide input in multiple fields at once. Once the input is entered, the user should hit “enter” and the table will filter. 
 
-[!IMAGE 2](Resources/IMAGE2.png)
+![IMAGE 2](Resources/IMAGE2.png)
 
 ## Summary
 

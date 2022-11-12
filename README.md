@@ -27,5 +27,5 @@ this drawback, the code can be updated to ensure it is not case sensitive.
 
 •	Drop Down Menu: In using the filters, the user may not be aware of all options available under each field. For example, the user may not be aware that
 under the shape field, options available include “circle”, “triangle”, “formation”, etc. To address this drawback, the code can be updated to provide a
-drop down menu such the user can select from. 
+drop down menu such that the user can select from. 
 

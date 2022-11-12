@@ -12,7 +12,7 @@ Once in the webpage, the user should navigate to the bottom left and find “Fil
 ![IMAGE 1](Resources/IMAGE1.png) 
 
 Without entering any information, the user will see all data populated in the table. To filter, the user should input criteria in at least one of the
-fields. The user can provide input in multiple fields at once. Once the input is entered, the user should hit “enter” and the table will filter. 
+fields. The user can provide input in multiple fields at once. Once the input is entered, the user should hit “enter” and the table will filter. As an example, the table has been filtered based on "El Cajon" in "City" field. 
 
 ![IMAGE 2](Resources/IMAGE2.png)
 

@@ -6,7 +6,7 @@ at the same time.
 
 ## Results
 
-Once in the webpage, the user should navigate to the bottom left and find “Filter Search”. There are 5 input boxes to filter data by including “City”, 
+Once in the webpage, the user should navigate to the bottom left and find “Filter Search”. There are 5 input boxes to filter data by including "Date", “City”, 
 “State”, “Country” and “Shape”.
 
 ![IMAGE 1](Resources/IMAGE1.png) 
